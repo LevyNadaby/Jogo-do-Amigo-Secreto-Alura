@@ -10,7 +10,7 @@ function adicionarAmigo() {
         atualizarLista(); // Atualiza a lista exibida
         amigoInput.value = ''; // Limpa o campo de texto
     } else {
-        alert('Por favor, digite um nome!'); // Alerta se o campo estiver vazio
+        alert('Por favor, digite um nome!'); // Alerta se o campo estiver vazioqq
     }
 }
 
